@@ -6,6 +6,7 @@ public class App{
 
         v.abastece(65);
         v.dirige(250);
+        System.out.println("----------------");
         System.out.println("Dados do veiculo:");
         System.out.println(v);
         System.out.println("----------------");
